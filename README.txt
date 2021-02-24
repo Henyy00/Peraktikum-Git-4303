@@ -5,3 +5,4 @@ Requirements System :
 - MYSQL versi...
 - HTTP server (apache,dll)
 - Redis
+- Phyton versi 3.x
